@@ -1,2 +1,4 @@
 enviro/
 myvenv/
+.env
+!.env.example
